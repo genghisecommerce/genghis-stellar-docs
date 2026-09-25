@@ -4,7 +4,7 @@ Version 1, September 2026. Scope: the Stellar payment path for people, and the x
 
 ## 1. What exists and what we add
 
-Genghis is a live marketplace for digital goods: gift cards, game keys, eSIMs and mobile top-ups, paid in crypto. Payment today runs through a licensed processor that issues a deposit address per payment and notifies us when funds arrive. We hold no customer funds and we do not receive payments on company wallets. This stays true after the build.
+Genghis is a live marketplace for digital goods: gift cards, game keys, eSIMs and mobile top-ups, paid in crypto. Payment today runs through a licensed processor that issues deposit details per payment (an address, plus a memo on networks that need one) and notifies us when funds arrive. We hold no customer funds and we do not receive payments on company wallets. This stays true after the build.
 
 | Component | Status | Change under this award |
 |---|---|---|
