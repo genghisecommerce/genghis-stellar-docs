@@ -1,0 +1,17 @@
+# Summary
+
+* [Genghis on Stellar](README.md)
+* [Technical architecture](ARCHITECTURE.md)
+* [Traction and supporting evidence](traction/README.md)
+  * [1. Company and operating history](traction/01-company.md)
+  * [2. Commercial metrics](traction/02-commercial-metrics.md)
+  * [3. Payment activity](traction/03-payment-activity.md)
+  * [4. Product adoption](traction/04-product-adoption.md)
+  * [5. Conversion problem](traction/05-conversion-problem.md)
+  * [6. Product delivery](traction/06-product-delivery.md)
+  * [7. Programmes and recognition](traction/07-programmes-and-recognition.md)
+  * [8. Community and distribution](traction/08-community-and-distribution.md)
+  * [9. Media and content](traction/09-media-and-content.md)
+  * [10. Events and ecosystem activity](traction/10-events-and-ecosystem.md)
+  * [11. Partnerships and suppliers](traction/11-partnerships-and-suppliers.md)
+  * [12. Team credibility](traction/12-team.md)
