@@ -89,7 +89,7 @@ The budget and milestones are in the Interest Form. Architecture: [ARCHITECTURE.
 | Stellar proof of concept | https://github.com/genghisecommerce/genghis-stellar-poc |
 | Read-only MCP server | https://github.com/genghisecommerce/genghis-mcp-readonly |
 | Payment evidence | https://github.com/genghisecommerce/genghis-payment-evidence |
-| Demo video | **[Video URL: to add. A 47 second silent cut exists, a voiceover version is being recorded.]** |
+| Demo video | [youtu.be/FpKosWZW81k](https://youtu.be/FpKosWZW81k): 2 minutes 30, the live site, the payment problem and the testnet checkout demo |
 
 ## Sources
 
