@@ -56,8 +56,8 @@ We report three measures. They differ because they answer different questions.
 |---|---|---|---|
 | Catalogue: in-stock products that serve only emerging markets | 37.1% (1,673 of 4,506) | 20 October 2026 | A product counts when every country it serves is outside the high-income list below. Worldwide products and products with no country stay in the denominator. |
 | Catalogue: same, among country-specific products | 40.6% (1,673 of 4,121) | 20 October 2026 | Worldwide and unassigned products removed from the denominator. |
-| Customers whose home market is emerging | 31.2% (250 of 802) | To 19 October 2026 | Home market is the country with the most of the customer's spend. |
-| Retail sales from customers with an emerging home market | 22.5% ($23,585 of $104,813) | To 19 October 2026 | Same. 85.3% of sales could be assigned to a market. |
+| Customers whose home market is emerging | 30.8% (250 of 812) | To 21 October 2026 | Home market is the country with the most of the customer's spend. |
+| Retail sales from customers with an emerging home market | 22.1% ($23,882 of $108,118) | To 21 October 2026 | Same. 85.3% of sales could be assigned to a market. |
 
 Emerging means any country not on this high-income list: United States, United Kingdom, Canada, Australia, New Zealand, Japan, South Korea, Singapore, Hong Kong, Taiwan, Israel, Switzerland, Norway, Iceland, Ireland, Germany, France, Italy, Spain, Portugal, the Netherlands, Belgium, Luxembourg, Austria, Denmark, Sweden, Finland, Greece, Cyprus, Malta, Slovenia, Slovakia, Czech Republic, Estonia, Latvia, Lithuania, Poland, Croatia, the United Arab Emirates, Qatar, Kuwait, Saudi Arabia, Bahrain, Monaco, Liechtenstein, Andorra and Europe as a region.
 

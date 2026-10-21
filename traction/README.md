@@ -20,7 +20,7 @@ Nothing on Stellar mainnet is live today. Genghis does not yet accept any paymen
 
 | Dataset | Covers | Read on |
 |---|---|---|
-| Commercial metrics (WooCommerce orders, management dashboard) | 1 December 2025 to 19 October 2026 (October is a partial month) | Built 19 October 2026 |
+| Commercial metrics (WooCommerce orders, management dashboard) | 1 December 2025 to 21 October 2026 (October is a partial month) | Built 21 October 2026 |
 | Payment evidence (processor export, public repository) | 3 October 2025 to 20 September 2026 | Published September 2026 |
 | Catalogue (WooCommerce catalogue and public catalogue API) | Snapshot | 20 October 2026 |
 | Checkout conversion (WooCommerce orders) | 1 June to 17 October 2026 | Read 17 October 2026 |
@@ -46,9 +46,9 @@ All amounts are USD. All figures are management information. They are not audite
 | Metric | Value | Period | Page |
 |---|---|---|---|
 | Retail sales | $24,646 from 333 orders | September 2026 | [Commercial metrics](02-commercial-metrics.md) |
-| Retail sales, partial month | $30,981 from 352 orders | 1 to 19 October 2026 | [Commercial metrics](02-commercial-metrics.md) |
-| Customers, lifetime | 802 | 3 October 2025 to 19 October 2026 | [Commercial metrics](02-commercial-metrics.md) |
-| Customers who bought more than once | 17.1% | Lifetime to 19 October 2026 | [Commercial metrics](02-commercial-metrics.md) |
+| Retail sales, partial month | $34,286 from 372 orders | 1 to 21 October 2026 | [Commercial metrics](02-commercial-metrics.md) |
+| Customers, lifetime | 812 | 3 October 2025 to 21 October 2026 | [Commercial metrics](02-commercial-metrics.md) |
+| Customers who bought more than once | 17.1% | Lifetime to 21 October 2026 | [Commercial metrics](02-commercial-metrics.md) |
 | Settled crypto payments | 1,395 worth $106,879 | 3 October 2025 to 20 September 2026 | [Payment activity](03-payment-activity.md) |
 | Crypto assets customers paid with | 37 | Same period | [Payment activity](03-payment-activity.md) |
 | Products in stock | 4,506 of 6,258 listed | 20 October 2026 | [Product adoption](04-product-adoption.md) |

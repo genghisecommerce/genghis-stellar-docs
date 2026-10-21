@@ -1,8 +1,8 @@
 # 2. Commercial metrics
 
-Retail sales grew from $1,016 in May 2026 to $24,646 in September 2026. October is on a faster path: $30,981 in the first 19 days.
+Retail sales grew from $1,016 in May 2026 to $24,646 in September 2026. October is on a faster path: $34,286 in the first 21 days.
 
-Data covers 1 December 2025 to 19 October 2026. October is a partial month. The series was built on 19 October 2026 from WooCommerce order records. Status: LIVE business, unaudited management information.
+Data covers 1 December 2025 to 21 October 2026. October is a partial month. The series was built on 21 October 2026 from WooCommerce order records. Status: LIVE business, unaudited management information.
 
 ## Definitions
 
@@ -25,7 +25,7 @@ Retail excludes: orders from four large-buyer account groups, the December 2025 
 | July 2026 | $9,132 | 90 | $101.47 | 65 | 25 |
 | August 2026 | $11,259 | 134 | $84.02 | 112 | 22 |
 | September 2026 | $24,646 | 333 | $74.01 | 224 | 109 |
-| October 2026, 1 to 19 | $30,981 | 352 | $88.01 | 238 | 114 |
+| October 2026, 1 to 21 | $34,286 | 372 | $92.17 | 248 | 124 |
 
 Notes on the table:
 
@@ -49,7 +49,7 @@ Notes on the table:
 | July 2026 | $9,132 | $3,660 | $0 | $12,817 | $26 | $12,792 |
 | August 2026 | $11,259 | $3,909 | $0 | $16,294 | $1,132 | $15,161 |
 | September 2026 | $24,646 | $17,064 | $0 | $42,545 | $835 | $41,709 |
-| October 2026, 1 to 19 | $30,981 | $10,599 | $0 | $41,654 | $74 | $41,580 |
+| October 2026, 1 to 21 | $34,286 | $10,599 | $0 | $44,959 | $74 | $44,885 |
 
 Large-buyer sales and retail sales add up to net sales for the months shown, apart from the campaign column in December 2025 and rounding.
 
@@ -69,11 +69,11 @@ August 2026 had a refund rate of 6.95% of GMV (17 refunded orders), the highest 
 
 ## Customers
 
-Customers are distinct billing emails with at least one paid retail order. Counted from the first sale to 19 October 2026.
+Customers are distinct billing emails with at least one paid retail order. Counted from the first sale to 21 October 2026.
 
 | Metric | Value | Definition |
 |---|---|---|
-| Customers | 802 | Distinct customers, lifetime. |
+| Customers | 812 | Distinct customers, lifetime. |
 | Retail orders | 1,327 | Lifetime. |
 | Retail sales | $104,813 | Lifetime, net of refunds. |
 | Average order value | $78.98 | Lifetime sales divided by orders. |
@@ -94,7 +94,7 @@ Genghis has been net profitable every month since March 2026 (management estimat
 |---|---|---|---|---|
 | August 2026 | 4.62% | 0.76% | $644 | +$211 |
 | September 2026 | 5.16% | 0.62% | $1,894 | +$1,461 |
-| October 2026, 1 to 19 | 4.64% | 0.50% (assumed) | $1,729 | +$1,296 after a full month of fixed costs |
+| October 2026, 1 to 21 | 4.64% | 0.50% (assumed) | $1,866 | +$1,433 after a full month of fixed costs |
 
 - Fixed costs are about $430 a month in the model (hosting, tools and similar). This estimate is under review.
 - Net profit above includes margin earned on large-buyer orders.
