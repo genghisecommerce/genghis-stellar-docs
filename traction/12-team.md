@@ -19,7 +19,7 @@ All three are members of the Genghis GitHub organisation: https://github.com/gen
 ## Verification
 
 - Claudio Cuccovillo is the sole director on the Companies House record: https://find-and-update.company-information.service.gov.uk/company/16315448
-- The Stellar Community Fund requires KYC and KYB of the team before any disbursement. All three members will complete it.
+- The Stellar Community Fund requires KYC and KYB of the team before any disbursement.
 
 ## What is not claimed
 
