@@ -1,25 +1,25 @@
 # 12. Team credibility
 
-Genghis is a team of five. The company page is https://www.linkedin.com/company/genghis-web3/ . Status: LIVE team. Profile links marked "to add" are not yet supplied.
+The Stellar build is run by a team of three. The company page is https://www.linkedin.com/company/genghis-web3/ . Status: LIVE team.
 
 | Name | Role | Responsible for | Background | Profile |
 |---|---|---|---|---|
-| Claudio Cuccovillo | Founder and CEO | Strategy, suppliers, growth, product ownership of the in-house build. Sole director of Genghis Ltd. Runs the Stellar application. | Chief Growth Officer at Kryptomon. Venture building at BCG Digital Ventures and Innoleaps. Founded Genghis in 2025. Author of the report and index. | **[LinkedIn: to add]** . Author page: https://www.genghis.pro/author/claudio . GitHub: **[GitHub: to add]** |
-| Carlo Cappai | Backend engineer | The payment side of the platform, the path this grant extends to Stellar. | **[background to confirm]** | **[LinkedIn: to add]** . GitHub: **[GitHub: to add]** |
-| Pietro Castaoro | Backend engineer | Catalogue and pricing systems. Built the supplier cost model and the pricing engine that keeps thousands of prices in line with live exchange rates. In production today, two passes a day. | **[background to confirm]** | **[LinkedIn: to add]** . GitHub: **[GitHub: to add]** |
-| Sanjay Karangiya | Data and marketing | Research and content. Co-author of the State of Living on Crypto report. Runs community publishing on Reddit, Publish0x and Medium. | **[background to confirm]** | **[LinkedIn: to add]** |
-| Hayjay | Marketing and partnerships | Social distribution, partnerships and community. Runs the daily X and Instagram presence and the community server. | **[background to confirm]** | **[LinkedIn: to add]** |
+| Claudio Cuccovillo | Founder and CEO, product and technical owner of the Stellar build | Strategy, suppliers, growth, ownership of the in-house platform build, including the checkout and the Stellar demo. Sole director of Genghis Ltd. | Chief Growth Officer at Kryptomon. Venture building at BCG Digital Ventures and Innoleaps. Founded Genghis in 2025. | https://www.linkedin.com/in/claudiocuccovillo/ . GitHub: https://github.com/ClaudioGenghis . Author page: https://www.genghis.pro/author/claudio |
+| Claudio Perrone | Senior developer and lean startup advisor | Software development and lean product validation for the Stellar build. | More than 15 years as a developer and lean startup practitioner. | https://www.linkedin.com/in/claudioperrone/ . GitHub: https://github.com/cperrone |
+| Carlo Cappai | Backend engineer | The payment side of the platform, the path this grant extends to Stellar. | Backend engineering and payments on the Genghis platform. | https://www.linkedin.com/in/carlo-cappai/ . GitHub: https://github.com/capaio |
+
+All three are members of the Genghis GitHub organisation: https://github.com/genghisecommerce
 
 ## Technical ownership for the grant
 
-- Technical owner for the Stellar work: **[name to confirm: proposed Claudio Cuccovillo with Carlo Cappai on the payment path]**.
+- Technical owner for the Stellar work: Claudio Cuccovillo, with Carlo Cappai on the payment path and Claudio Perrone on development.
 - The existing platform was built in-house: an Angular storefront, a payment and fulfilment API, and a WooCommerce catalogue layer. The grant work extends the payment and fulfilment path.
 - All production changes are tested on a staging environment before release. Payments and fulfilment are treated as the highest-risk area and need the founder's explicit approval to release.
 
 ## Verification
 
 - Claudio Cuccovillo is the sole director on the Companies House record: https://find-and-update.company-information.service.gov.uk/company/16315448
-- The Stellar Community Fund requires KYC and KYB of the team before any disbursement. **[Claudio to confirm that all five members will complete it]**
+- The Stellar Community Fund requires KYC and KYB of the team before any disbursement. All three members will complete it.
 
 ## What is not claimed
 
@@ -28,5 +28,5 @@ Genghis is a team of five. The company page is https://www.linkedin.com/company/
 
 ## Sources
 
-- Genghis team record, 21 September 2026 (five members, decided by the founder).
+- Genghis team record, 24 October 2026 (three members for the Stellar build, decided by the founder).
 - Companies House record for company 16315448.
