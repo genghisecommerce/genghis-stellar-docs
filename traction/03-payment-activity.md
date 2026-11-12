@@ -39,7 +39,7 @@ Payment volume is not retail sales. Page 2 explains retail sales. The next secti
 | September 2026, 1 to 20 | 207 | $12,216 |
 | Total | 1,395 | $106,879 |
 
-The figures on this page stop at 20 September 2026, the dataset our application cites. The repository was extended on 12 November 2026 and now runs to 11 November 2026: 2,361 settled payments worth $258,796, large-buyer payments included (September 2026 in full: 348 payments, $42,220; October 2026: 589 payments, $74,806).
+The figures on this page stop at 20 September 2026, the dataset our application cites. The repository was extended on 12 November 2026 and now runs to 11 November 2026: 2,371 settled payments worth $262,715, large-buyer payments included (September 2026 in full: 348 payments, $42,220; October 2026: 598 payments, $75,188).
 
 ## Assets used
 
