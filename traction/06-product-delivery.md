@@ -90,7 +90,7 @@ The grant builds the standard x402 exact scheme on Stellar and CCTP chains, Near
 | Stellar proof of concept | https://github.com/genghisecommerce/genghis-stellar-poc |
 | Read-only MCP server | https://github.com/genghisecommerce/genghis-mcp-readonly |
 | Payment evidence | https://github.com/genghisecommerce/genghis-payment-evidence |
-| Demo video | [youtu.be/FpKosWZW81k](https://youtu.be/FpKosWZW81k): 2 minutes 30, the live site, the payment problem and the testnet checkout demo |
+| Demo video | [youtu.be/AHclPxdSYRs](https://youtu.be/AHclPxdSYRs): 2 minutes 38, November 2026, aligned with the v3 architecture. Earlier cut, October 2026: [youtu.be/FpKosWZW81k](https://youtu.be/FpKosWZW81k) |
 
 ## Sources
 
