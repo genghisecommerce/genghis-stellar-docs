@@ -16,7 +16,7 @@ This page lists only what Genghis has verifiably done in the crypto ecosystem. S
 
 ## Ecosystem participation with Stellar
 
-- Interest Form for the Stellar Community Fund, sent in October 2026, and the Build application, submitted to round 46 in November 2026.
+- Interest Form for the Stellar Community Fund, sent in October 2026, and a Build application, submitted in November 2026.
 - Public technical architecture for the Stellar build: [ARCHITECTURE.md](../ARCHITECTURE.md). The grant builds the standard x402 exact scheme on Stellar and CCTP chains, Near Intents and Axelar with Soroswap intake, the Purchase API and the Checkout SDK; the memo bridge prototype is replaced.
 - Support conversations with the payment processor confirmed on 21 September 2026 that it attributes Stellar deposits by text memo, accepts Soroban transfers, refuses muxed addresses, and does not yet support USDC on Stellar. That is why the design receives USDC directly on a Genghis-owned account.
 
