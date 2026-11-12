@@ -80,7 +80,7 @@ Each settled in about five seconds and was matched to its order by memo, asset a
 | Purchase API and Checkout SDK for wallets and applications | GRANT |
 | Spending caps, idempotent requests, monitoring and a threat model | GRANT |
 
-The grant builds the standard x402 exact scheme on Stellar and CCTP chains, Near Intents and Axelar with Soroswap intake, the Purchase API and the Checkout SDK; the memo bridge prototype is replaced. Architecture: [ARCHITECTURE.md](../ARCHITECTURE.md).
+The grant builds the standard x402 exact scheme on Stellar and CCTP chains, Near Intents and Axelar with Soroswap intake, the Purchase API and the Checkout SDK; the memo bridge prototype is replaced. Architecture: [ARCHITECTURE.md](../ARCHITECTURE.md). Milestones and budget: [MILESTONES.md](../MILESTONES.md).
 
 ## Repositories and media
 

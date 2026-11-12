@@ -1,19 +1,19 @@
 # 7. Programmes and recognition
 
-Genghis took part in two accelerator programmes in 2025, both non-dilutive. Neither holds equity in Genghis. Genghis has received no grant and no investment. Status: history, confirmed by the founder.
+Genghis took part in two accelerator programmes in 2025, both non-dilutive. Neither holds equity in Genghis. Genghis has received no grant and no investment. Status: history, with public sources linked below.
 
 ## Programmes
 
-| Programme | When | Terms | What Genghis got |
-|---|---|---|---|
-| Algorand Foundation accelerator | July 2025 | Non-dilutive, no equity | Participation, and a co-marketing campaign in December 2025 |
-| Techstars with Cardano Founder Catalyst | September to December 2025 | Non-dilutive, no equity | Participation |
+| Programme | When | Terms | What Genghis got | Public source |
+|---|---|---|---|---|
+| Algorand Foundation accelerator | July 2025 | Non-dilutive, no equity | Participation, and a co-marketing campaign in December 2025 | [Algorand Foundation transparency report, Q4 2025](https://algorand.co/hubfs/Website-2024/Transparency%20Reports/Algorand%20-%20Transparency%20Report%20-%20Q4%20-%20V3%20-%20Final.pdf): names Genghis among the four projects of the 2025 Algorand Accelerator that launched in Q4 |
+| Techstars with Cardano Founder Catalyst | October to December 2025 | Non-dilutive, no equity | Participation | [Techstars cohort announcement, 10 October 2025](https://www.techstars.com/blog/program-news/introducing-the-2025-techstars-cardano-founder-catalyst-cohort): lists GENGHIS LTD among the 20 startups |
 
 We use the words "accelerated by". We do not use "backed by", because no programme invested.
 
 ## The Algorand co-marketing campaign
 
-A two-week campaign in December 2025 with Algorand, aimed at people who already hold USDC on Algorand. Measured on WooCommerce orders:
+A campaign in December 2025 with Algorand, run inside its Algoland programme ([Algorand Foundation post on the final week](https://x.com/AlgoFoundation/status/2000566037360804169)), aimed at people who already hold USDC on Algorand. Measured on WooCommerce orders:
 
 | Metric | Value | Period |
 |---|---|---|
@@ -44,6 +44,6 @@ What it shows, plainly:
 
 ## Sources
 
-- Founder confirmation of programme dates, 2025.
+- Algorand Foundation transparency report, Q4 2025, and the Techstars cohort announcement of 10 October 2025, linked above.
 - WooCommerce campaign cohort, management dashboard rebuild of 19 October 2026.
 - [genghis-payment-evidence](https://github.com/genghisecommerce/genghis-payment-evidence).

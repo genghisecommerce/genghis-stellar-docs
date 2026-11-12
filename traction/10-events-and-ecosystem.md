@@ -6,8 +6,8 @@ This page lists only what Genghis has verifiably done in the crypto ecosystem. S
 
 | Date | Activity | Evidence |
 |---|---|---|
-| July 2025 | Algorand Foundation accelerator | Page 7 |
-| September to December 2025 | Techstars with Cardano Founder Catalyst | Page 7 |
+| July 2025 | Algorand Foundation accelerator | Page 7 and the [Algorand Foundation transparency report, Q4 2025](https://algorand.co/hubfs/Website-2024/Transparency%20Reports/Algorand%20-%20Transparency%20Report%20-%20Q4%20-%20V3%20-%20Final.pdf) |
+| October to December 2025 | Techstars with Cardano Founder Catalyst | Page 7 and the [Techstars cohort announcement](https://www.techstars.com/blog/program-news/introducing-the-2025-techstars-cardano-founder-catalyst-cohort) |
 | 15 to 22 December 2025 | Co-marketing campaign with Algorand: 274 orders, 240 buyers paying mostly in USDC on Algorand | Page 7 and the [payment evidence](https://github.com/genghisecommerce/genghis-payment-evidence) |
 | 23 and 25 June 2026 | Crypto Livability Index report and data set published with DOIs | Page 9 |
 | 14 July 2026 | Press releases on the report submitted | Page 9 |

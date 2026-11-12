@@ -229,7 +229,7 @@ For a person or an agent holding BTC, ETH, SOL, USDT or another asset served by 
 
 Soroswap's aggregator routes each swap to the best price across Soroswap, Aquarius, SushiSwap V3, Comet and the classic DEX, and executes it in a single transaction with a minimum received.
 
-For the tokens that Axelar's Interchain Token Service already serves on Stellar and that have a real market there (today SolvBTC; any canonical token an issuer registers can follow, section 17), the buyer transfers the token from their chain. The storefront builds the `interchainTransfer` call for the buyer's wallet (ITS contract on the source chain, metadata encoded by the order system); the buyer signs it like any contract call. Genghis never wants to hold a volatile asset: the conversion into USDC happens in the same execution as the receipt.
+For the tokens that Axelar's Interchain Token Service already serves on Stellar and that have a real market there (today solvBTC; any canonical token an issuer registers can follow, section 17), the buyer transfers the token from their chain. The storefront builds the `interchainTransfer` call for the buyer's wallet (ITS contract on the source chain, metadata encoded by the order system); the buyer signs it like any contract call. Genghis never wants to hold a volatile asset: the conversion into USDC happens in the same execution as the receipt.
 
 ```mermaid
 sequenceDiagram
@@ -301,7 +301,7 @@ Genghis Ltd, a company incorporated in England (no. 16315448), sells its own dig
 
 ## 17. Scope boundaries and what comes next
 
-- XLM, Monero and Algorand through our payment processor stay as they are today: a setting on the processor side, not a deliverable.
+- XLM, Monero and Algorand through our payment processor, and the orders below the Near Intents minimums, stay as they are today: a setting on the processor side, not a deliverable.
 - Treasury management after receipt (conversion, paying suppliers) follows our financial policy, outside this submission.
 - The catalogue stays as it is today: no new country, no new product, no sending of a product to a relative's number is promised here.
 - A token is only converted through Soroswap if a real $1,000 quote shows a spread under 1% all fees included; the check is done before opening and then weekly, and a token that falls outside the threshold is disabled automatically. Sizing rule: at least 200 times the maximum swap size in reserve on the output side ($200k for $1,000).

@@ -23,7 +23,7 @@ Genghis Ltd is a UK private limited company. It has traded on genghis.pro since 
 | March 2025 | Company incorporated. First idea was crypto commerce for physical goods. It produced no sales. | History |
 | May 2025 | Pivot to digital gift cards after customer interviews showed they were the product people already used to spend crypto. | History |
 | July 2025 | Algorand Foundation accelerator programme (non-dilutive, no equity). | History |
-| September to December 2025 | Techstars with Cardano Founder Catalyst programme (non-dilutive, no equity). | History |
+| October to December 2025 | Techstars with Cardano Founder Catalyst programme (non-dilutive, no equity). | History |
 | 3 October 2025 | First settled customer payment on the rebuilt platform. | LIVE from here |
 | 15 to 22 December 2025 | Co-marketing campaign with Algorand: 274 orders, $4,995. Shown separately from retail sales. | History |
 | 25 August 2026 | Genghis replaced the third-party payment redirect with its own checkout on genghis.pro. | LIVE |

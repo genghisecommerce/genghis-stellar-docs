@@ -2,6 +2,7 @@
 
 * [Genghis on Stellar](README.md)
 * [Technical architecture](ARCHITECTURE.md)
+* [Milestones and budget](MILESTONES.md)
 * [Traction and supporting evidence](traction/README.md)
   * [1. Company and operating history](traction/01-company.md)
   * [2. Commercial metrics](traction/02-commercial-metrics.md)
