@@ -21,7 +21,7 @@ Nothing on Stellar mainnet is live today. Genghis does not yet accept any paymen
 | Dataset | Covers | Read on |
 |---|---|---|
 | Commercial metrics (WooCommerce orders, management dashboard) | 1 December 2025 to 21 October 2026 (October is a partial month) | Built 21 October 2026 |
-| Payment evidence (processor export, public repository) | 3 October 2025 to 20 September 2026 | Published September 2026 |
+| Payment evidence (processor export, public repository) | 3 October 2025 to 20 September 2026 on these pages; the repository runs to 11 November 2026 | Published September 2026, extended 12 November 2026 |
 | Catalogue (WooCommerce catalogue and public catalogue API) | Snapshot | 20 October 2026 |
 | Checkout conversion (WooCommerce orders) | 1 June to 17 October 2026 | Read 17 October 2026 |
 
