@@ -45,9 +45,9 @@ Asset decision (20 October 2026): **USDC is primary, received directly on a Geng
 |---|---|---|
 | Live Genghis products, values and USD prices | The order is created in the browser, not in the Genghis order system | This checkout inside genghis.pro, on mainnet |
 | Wallet connection through Stellar Wallets Kit | The delivered code is a placeholder. No supplier is called. | USDC received on a Genghis Stellar account, with a payment listener in the order system |
-| USDC by default, XLM as the alternative | The receiving account is a testnet account made for the demo | XLM through the current processor |
+| USDC by default, XLM as the alternative | The receiving account is a testnet account made for the demo | XLM and EURC accepted through a path payment that delivers USDC |
 | A payment signed in the wallet and settled on testnet | A wallet with no testnet USDC pays in XLM, converted on the Stellar DEX in the same transaction, so Genghis still receives the exact USDC amount | The real code delivered the moment the payment settles |
-| A listener that reads the Genghis account on Horizon and matches memo, asset and amount before anything is delivered | | Agent purchases over x402 on Stellar, paid in USDC |
+| A listener that reads the Genghis account on Horizon and matches memo, asset and amount before anything is delivered | | Agent purchases through the standard x402 scheme, on Stellar and on CCTP chains, paid in USDC |
 
 ### Testnet transactions
 
@@ -75,11 +75,12 @@ Each settled in about five seconds and was matched to its order by memo, asset a
 | Stellar payment path in the production order system (testnet then mainnet) | GRANT |
 | Checkout with Stellar Wallets Kit inside genghis.pro | GRANT |
 | Payment listener tied to the order state machine, returning the code in the purchase response | GRANT |
-| x402 endpoint and memo bridge for agents, with a proposed memo extension to the x402 Stellar scheme | GRANT |
+| Standard x402 exact scheme for agents, on Stellar and on CCTP chains | GRANT |
+| Near Intents intake, and Axelar with Soroswap intake | GRANT |
+| Purchase API and Checkout SDK for wallets and applications | GRANT |
 | Spending caps, idempotent requests, monitoring and a threat model | GRANT |
-| Open source bridge and merchant adapter for other Stellar merchants | GRANT |
 
-The budget and milestones are in the Interest Form. Architecture: [ARCHITECTURE.md](../ARCHITECTURE.md).
+The grant builds the standard x402 exact scheme on Stellar and CCTP chains, Near Intents and Axelar with Soroswap intake, the Purchase API and the Checkout SDK; the memo bridge prototype is replaced. Architecture: [ARCHITECTURE.md](../ARCHITECTURE.md).
 
 ## Repositories and media
 

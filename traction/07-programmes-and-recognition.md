@@ -1,13 +1,13 @@
 # 7. Programmes and recognition
 
-Genghis took part in two accelerator programmes in 2025, both non-dilutive. Neither holds equity in Genghis. Genghis has received no grant and no investment. Status: history, verified by the founder; public links to be added.
+Genghis took part in two accelerator programmes in 2025, both non-dilutive. Neither holds equity in Genghis. Genghis has received no grant and no investment. Status: history, confirmed by the founder.
 
 ## Programmes
 
-| Programme | When | Terms | What Genghis got | Public link |
-|---|---|---|---|---|
-| Algorand Foundation accelerator | July 2025 | Non-dilutive, no equity | Participation, and a co-marketing campaign in December 2025 | **[link to add: Algorand Foundation programme page or announcement]** |
-| Techstars with Cardano Founder Catalyst | September to December 2025 | Non-dilutive, no equity | Participation | **[link to add: Techstars Cardano Founder Catalyst page or cohort announcement]** |
+| Programme | When | Terms | What Genghis got |
+|---|---|---|---|
+| Algorand Foundation accelerator | July 2025 | Non-dilutive, no equity | Participation, and a co-marketing campaign in December 2025 |
+| Techstars with Cardano Founder Catalyst | September to December 2025 | Non-dilutive, no equity | Participation |
 
 We use the words "accelerated by". We do not use "backed by", because no programme invested.
 

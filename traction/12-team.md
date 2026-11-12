@@ -8,8 +8,6 @@ The Stellar build is run by a team of three. The company page is https://www.lin
 | Claudio Perrone | Senior developer and lean startup advisor | Software development and lean product validation for the Stellar build. | More than 15 years as a developer and lean startup practitioner. | https://www.linkedin.com/in/claudioperrone/ . GitHub: https://github.com/cperrone |
 | Carlo Cappai | Backend engineer | The payment side of the platform, the path this grant extends to Stellar. | Backend engineering and payments on the Genghis platform. | https://www.linkedin.com/in/carlo-cappai/ . GitHub: https://github.com/capaio |
 
-All three are members of the Genghis GitHub organisation: https://github.com/genghisecommerce
-
 ## Technical ownership for the grant
 
 - Technical owner for the Stellar work: Claudio Cuccovillo, with Carlo Cappai on the payment path and Claudio Perrone on development.

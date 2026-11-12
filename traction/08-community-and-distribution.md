@@ -1,20 +1,19 @@
 # 8. Community and distribution
 
-Genghis grows through search, AI assistants, content and a small set of social channels. Acquisition has been organic since January 2026. This page lists the official channels and the metrics we can show. Status: LIVE. Where a metric has not been pulled yet, the cell says so.
+Genghis grows through search, AI assistants, content and a small set of social channels. Acquisition has been organic since January 2026. This page lists the official channels and the metrics we can show. Status: LIVE. Where we publish no figure, the cell says so.
 
 ## Official channels
 
 | Channel | Link | Operated by | Cadence | Metric we can show |
 |---|---|---|---|---|
 | X | https://x.com/ShopWithGenghis | Hayjay | 3 posts a day | 394 followers on 22 September 2026. 16,300 impressions and 464 engagements in the 28 days to 22 September 2026 (engagement rate 2.8%). X analytics. |
-| LinkedIn (company) | https://www.linkedin.com/company/genghis-web3/ | Genghis | Company page | **[follower count to add]** |
-| LinkedIn (founder) | **[LinkedIn: to add]** | Claudio Cuccovillo | Founder profile | Not published. |
-| Instagram | https://www.instagram.com/genghis.pro | Hayjay | 3 posts a week | **[follower count to add]** |
-| Telegram | https://t.me/Genghis_Market | Genghis | Community channel | **[member count to add]** |
-| Discord | https://discord.gg/XbJmBAsPzw | Hayjay | Community server | **[member count to add]** |
-| Reddit | https://www.reddit.com/r/genghis_pro/ | Sanjay | About 1 post a day | **[member count and post count to add]** |
-| Medium | **[Medium profile: to add]** | Sanjay | 1 original article a week | **[article count to add]** |
-| Publish0x | **[Publish0x profile: to add]** | Sanjay | 3 articles a week since 10 September 2026 | **[article count to add]** |
+| LinkedIn (company) | https://www.linkedin.com/company/genghis-web3/ | Genghis | Company page | No figure published here. |
+| LinkedIn (founder) | https://www.linkedin.com/in/claudiocuccovillo/ | Claudio Cuccovillo | Founder profile | No figure published here. |
+| Instagram | https://www.instagram.com/genghis.pro | Hayjay | 3 posts a week | No figure published here. |
+| Telegram | https://t.me/Genghis_Market | Genghis | Community channel | No figure published here. |
+| Reddit | https://www.reddit.com/r/genghis_pro/ | Sanjay | About 1 post a day | No figure published here. |
+| Medium | https://medium.com/@prorookie888 | Sanjay | 1 original article a week | No figure published here. |
+| Publish0x | https://www.publish0x.com/live-on-crypto | Sanjay | 3 articles a week since 10 September 2026 | No figure published here. |
 
 Cadences are the operating plan as of 20 October 2026, not delivery counts. Human operators post. Nothing is posted automatically.
 
