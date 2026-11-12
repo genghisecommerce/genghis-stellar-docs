@@ -2,7 +2,7 @@
 
 Retail sales grew from $1,016 in May 2026 to $24,646 in September 2026. October is on a faster path: $34,286 in the first 21 days.
 
-Data covers 1 December 2025 to 21 October 2026. October is a partial month. The series was built on 21 October 2026 from WooCommerce order records. Status: LIVE business, unaudited management information.
+Data covers 1 December 2025 to 21 October 2026. October is a partial month. The series was built on 21 October 2026 from WooCommerce order records. Status: LIVE business, management figures, not statutory accounts.
 
 ## Definitions
 
@@ -88,7 +88,7 @@ The business depends on small first purchases. The median first purchase is $23.
 
 ## Profitability
 
-Genghis has been net profitable every month since March 2026 (management estimates, unaudited, not statutory accounts). Until July most of the profit came from margin on large-buyer orders; from August retail margin alone covers fixed costs.
+Genghis has been net profitable every month since March 2026 (management figures, not statutory accounts). Until July most of the profit came from margin on large-buyer orders; from August retail margin alone covers fixed costs.
 
 | Month | Product margin on retail | Payment collection cost | Gross profit, all segments | Net profit after fixed costs |
 |---|---|---|---|---|

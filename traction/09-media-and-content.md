@@ -25,7 +25,7 @@ Why it matters for this application: the report is original research from the te
 
 - Press releases on the report were submitted on 14 July 2026 to two distribution services (Stelareum and PRLog).
 - Pitches to crypto news sites have been sent, for example two on 14 October 2026. We do not list outlets here because no coverage is confirmed.
-- **Earned media coverage: none confirmed.** If coverage exists, links go here: **[add confirmed coverage, if any]**.
+- **Earned media coverage: none confirmed.**
 
 ## Blog
 

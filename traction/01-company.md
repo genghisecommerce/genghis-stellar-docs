@@ -55,7 +55,7 @@ The 3 October 2025 date is the first row of the public [payment evidence](https:
 
 - Bootstrapped. No outside investment has been taken.
 - Non-dilutive accelerator support from Algorand Foundation and Techstars with Cardano Founder Catalyst. Neither holds equity.
-- A Build application of $88,000 has been submitted to the Stellar Community Fund, round 46. Nothing has been received from any grant.
+- Nothing has been received from any grant.
 
 ## Sources
 
